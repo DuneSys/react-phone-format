@@ -1,2 +1,2 @@
-# react-phone-format-
-React Phone Formatter
+# react-smart-formatter 
+React Smart Input Formatter.
